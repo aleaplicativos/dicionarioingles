@@ -43,3 +43,10 @@ a:hover {
   text-decoration: none;
   font-weight: bold;
 }
+.synonyms {
+  font-weight: bold;
+}
+.antonyms {
+  font-weight: bold;
+  color: red;
+}
